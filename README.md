@@ -2,10 +2,13 @@
 
 A modern educational portal mobile application for **Bidaya Academy**, offering course browsing, student registration, educational resources, interactive schedules, and direct communication channels.
 
+👉 **[🌐 Launch Live Web App](https://mhmdjoe.github.io/bedaya-academy/)** (Try it live in your browser!)
+
 ---
 
 ## 🌟 Key Features
 
+- 🌐 **Live Web Demo**: Access and explore the academy app directly in your browser.
 - 📚 **Course Management**: Explore interactive courses, track curriculum modules, and view course details.
 - 👨‍🏫 **Instructor Profiles**: Access educator biographies, certifications, and course offerings.
 - 🧭 **Seamless Navigation**: Built with `go_router` for deep linking and declarative routing.
@@ -19,7 +22,7 @@ A modern educational portal mobile application for **Bidaya Academy**, offering 
 
 | Category | Technology |
 | :--- | :--- |
-| **Framework** | Flutter & Dart SDK |
+| **Framework** | Flutter (Dart SDK) & Flutter Web |
 | **State Management** | `flutter_riverpod` |
 | **Navigation** | `go_router` |
 | **Typography & Styling** | `google_fonts` |
